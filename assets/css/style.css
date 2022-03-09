@@ -1,0 +1,11 @@
+body{
+    background: brown;
+}
+
+a{
+    text-decoration: none;
+}
+
+.ms_bgcol_1{
+    background-color: rgb(50, 44, 100);
+}
